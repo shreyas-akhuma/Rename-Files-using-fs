@@ -1,8 +1,8 @@
 const express = require('express'),
-	  multer = require('multer'),
-	  path = require('path'),
-	  bodyParser = require('body-parser'),
-	  fs = require('fs');
+      multer = require('multer'),
+      path = require('path'),
+      bodyParser = require('body-parser'),
+      fs = require('fs');
 
 const uploadFolder = './public/uploads/study';
 
